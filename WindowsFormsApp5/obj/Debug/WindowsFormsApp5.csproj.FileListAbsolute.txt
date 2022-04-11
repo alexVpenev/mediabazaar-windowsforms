@@ -1,0 +1,779 @@
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\netstandard.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.AppContext.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.Specialized.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Console.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Data.Common.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Compression.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Pipes.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Expressions.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Parallel.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Queryable.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Http.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.NameResolution.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Ping.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Primitives.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Requests.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Security.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Sockets.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebSockets.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ObjectModel.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.Reader.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.Writer.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Handles.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Claims.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.SecureString.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encoding.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Thread.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Timer.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XDocument.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XPath.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Renci.SshNet.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Zstandard.Net.dll
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.pdb
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.xml
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.xml
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Renci.SshNet.xml
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe.config
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddEmployeeForm.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.DepotWorker.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.HRForm.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.LoginForm.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ManagerForm.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.SalesRepresentative.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucDW.ucDWStockDepot.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucDW.ucDWStockRequest.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucHR.ucHREmployees.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucHR.ucHRShifts.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucM.ucMEmployees.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucM.ucMStatistics.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStatistics.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStockDepot.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStockRequests.resources
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\888602\Documents\001 Year 7\PRJ\Group 6\GIT\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\netstandard.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.AppContext.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.Specialized.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Console.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Data.Common.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Compression.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Pipes.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Expressions.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Parallel.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Queryable.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Http.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.NameResolution.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Ping.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Requests.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Security.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Sockets.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebSockets.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ObjectModel.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.Reader.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.Writer.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Handles.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Claims.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.SecureString.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encoding.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Thread.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Timer.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XDocument.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XPath.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Renci.SshNet.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Zstandard.Net.dll
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.pdb
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.xml
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.xml
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Renci.SshNet.xml
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe.config
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddEmployeeForm.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.DepotWorker.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.HRForm.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.LoginForm.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ManagerForm.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.SalesRepresentative.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucDW.ucDWStockDepot.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucDW.ucDWStockRequest.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucHR.ucHREmployees.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucHR.ucHRShifts.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucM.ucMEmployees.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucM.ucMStatistics.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStatistics.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStockDepot.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStockRequests.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddProductForm.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.EditProductForm.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.StockRequestForm.resources
+C:\Users\aniak\OneDrive\Pulpit\S2_Project\OOD\prj-cb08-6-mediabazaar\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRAttendance.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\netstandard.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.AppContext.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.Specialized.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Console.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Data.Common.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Compression.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Pipes.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Expressions.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Parallel.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Queryable.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Http.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.NameResolution.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Ping.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Requests.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Security.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Sockets.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebSockets.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ObjectModel.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.Reader.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.Writer.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Handles.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Claims.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.SecureString.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encoding.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Thread.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Timer.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XDocument.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XPath.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Renci.SshNet.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Zstandard.Net.dll
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.pdb
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.pdb
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Renci.SshNet.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe.config
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddEmployeeForm.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddProductForm.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ChangeInfoEmployeeForm.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddShiftForm.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.DepotWorker.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.EditProductForm.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.StockRequestForm.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.HRForm.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.LoginForm.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ManagerForm.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.SalesRepresentative.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucDW.ucDWStockDepot.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucDW.ucDWStockRequest.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucHR.ucHREmployees.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucHR.ucHRShifts.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucM.ucMEmployees.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucM.ucMStatistics.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRAttendance.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStatistics.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStockDepot.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStockRequests.resources
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\aniak\OneDrive\Pulpit\merged\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\netstandard.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.AppContext.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.Specialized.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Console.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Data.Common.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Compression.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Pipes.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Expressions.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Parallel.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Queryable.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Http.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.NameResolution.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Ping.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Requests.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Security.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Sockets.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebSockets.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ObjectModel.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.Reader.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.Writer.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Handles.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Claims.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.SecureString.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encoding.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Thread.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Timer.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XDocument.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XPath.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Renci.SshNet.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Zstandard.Net.dll
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.pdb
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.pdb
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Renci.SshNet.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe.config
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddEmployeeForm.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddProductForm.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ChangeInfoEmployeeForm.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddShiftForm.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.DepotWorker.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.EditProductForm.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.StockRequestForm.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.HRForm.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.LoginForm.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ManagerForm.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.SalesRepresentative.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucDW.ucDWStockDepot.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucDW.ucDWStockRequest.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucHR.ucHREmployees.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucHR.ucHRShifts.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucHR.WeeklyShifts.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucM.ucMEmployees.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucM.ucMStatistics.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRAttendance.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStatistics.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStockDepot.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStockRequests.resources
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\aniak\OneDrive\Pulpit\PRJ June\prj-cb08-6-mediabazaar\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe.config
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.exe
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\WindowsFormsApp5.pdb
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\netstandard.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.AppContext.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.Concurrent.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.NonGeneric.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Collections.Specialized.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.Primitives.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ComponentModel.TypeConverter.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Console.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Data.Common.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Contracts.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Debug.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Process.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.StackTrace.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Tools.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.TraceSource.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Diagnostics.Tracing.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Drawing.Primitives.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Dynamic.Runtime.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Globalization.Extensions.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Compression.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.FileSystem.Watcher.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.IsolatedStorage.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.MemoryMappedFiles.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.Pipes.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Expressions.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Parallel.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Linq.Queryable.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Http.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.NameResolution.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.NetworkInformation.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Ping.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Primitives.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Requests.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Security.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.Sockets.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebHeaderCollection.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebSockets.Client.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Net.WebSockets.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ObjectModel.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.Extensions.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Reflection.Primitives.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.Reader.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.ResourceManager.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Resources.Writer.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Extensions.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Handles.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.InteropServices.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Numerics.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Formatters.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Json.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Primitives.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.Serialization.Xml.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Claims.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Csp.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.Principal.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Security.SecureString.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encoding.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.Encoding.Extensions.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Text.RegularExpressions.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Overlapped.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Tasks.Parallel.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Thread.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.ThreadPool.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Threading.Timer.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.ValueTuple.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XDocument.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XmlDocument.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XmlSerializer.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XPath.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Xml.XPath.XDocument.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.WinForms.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Renci.SshNet.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Zstandard.Net.dll
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.pdb
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Google.Protobuf.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.pdb
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.WinForms.pdb
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.WinForms.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\MySql.Data.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\Renci.SshNet.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Buffers.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Memory.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe.config
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddEmployeeForm.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddProductForm.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ChangeInfoEmployeeForm.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.AddShiftForm.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.DepotWorker.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.EditProductForm.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.StockRequestForm.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.HRForm.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.LoginForm.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ManagerForm.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.SalesRepresentative.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucDW.ucDWStockDepot.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucDW.ucDWStockRequest.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucHR.ucHREmployees.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucHR.WeeklyShifts.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucM.ucMEmployees.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucM.ucMStatistics.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRAttendance.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStatistics.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStockDepot.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.ucSR.ucSRStockRequests.resources
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.csproj.CopyComplete
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.exe
+C:\Users\Alex\Desktop\WindowsFormsApp5\WindowsFormsApp5\obj\Debug\WindowsFormsApp5.pdb
