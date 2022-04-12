@@ -17,10 +17,11 @@ namespace WindowsFormsApp5
         public string ConnString { get; private set; }
         public DBConnection()
         {
-            server = "studmysql01.fhict.local";
-            database = "dbi412462";
-            username = "dbi412462";
-            password = "g4rocks";
+            //db no longer exists
+            server = "";
+            database = "";
+            username = "";
+            password = "";
             ConnString = String.Format("server={0};database={1};uid={2};password={3};", server, database, username, password);
         }
     }
